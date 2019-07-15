@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-minimal-blog",
-  "description": "Typography driven blog, focus on the content & minimal style. Powered by MDX. Live Preview with react-live.",
-  "version": "3.0.0",
-  "author": "LekoArts <hello@lekoarts.de> (https://www.lekoarts.de)",
+  "name": "fe-guide",
+  "description": "fe-guide",
+  "version": "0.0.1",
+  "author": "hjpark <hjpark@ksd.or.kr>",
   "dependencies": {
     "@mdx-js/mdx": "^1.0.21",
     "@mdx-js/react": "^1.0.21",
@@ -39,7 +39,7 @@
   "keywords": [
     "gatsby",
     "gatsby-starter",
-    "lekoarts"
+    "coolitea"
   ],
   "license": "MIT",
   "main": "n/a",
@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.0.2",
-    "eslint": "^6.0.1",
+    "eslint": "^5.3.0",
     "eslint-config-airbnb": "^17.1.1",
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-import": "^2.18.0",
