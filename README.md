@@ -86,22 +86,20 @@
 - [PM2](http://pm2.keymetrics.io/)
 - [Node.js](https://nodejs.org/) - [번역본](https://nodejs.org/ko/)
 
-## 상용 솔루션
+## 상용 솔루션 (기능별 제품)
 
-- [라온시큐어](https://www.raonsecure.com/)
-  - **인증서버 SW**
-    - **Key# Biz** v2.0 - (웹브라우저 인증서) 범용네트워크암호/인증
-  - **트랜잭션보안 및 바이러스보호 SW**
-    - **TouchEn Transkey** v4.6 - (PC) 가상키패드/Server
-    - **TouchEn mTranskey** v4.6 - 모바일키보드보안(Web용)
-- [포시에스](http://www.forcs.com/) **OZ Report** - 출력물
-- [아틀라시안](https://www.atlassian.com/ko)
-  - **Bitbucket** - Git 코드 관리
-  - **Bamboo** - 지속적 통합
-- [sga](http://www.sgasol.kr/kr/01_product/product01.php) **RadCastle** - 통합서버보안솔루션
-- [umv기술](http://www.umv.co.kr/kor/product/product0101.php) **WSS**(Web Server Safeguard) - 쉘모니터(ShellMonitor)
-- [Acronis](https://www.acronis.com/ko-kr/business/backup/linux-server/) **Backup** - Linux 백업
-- [GeoTrust](https://www.geotrust.com/) - SSL 인증서
+- Git 코드 관리 - [아틀라시안](https://www.atlassian.com/ko) **Bitbucket**
+- CI (지속적 통합) - **Bamboo**
+- 웹브라우저 인증서 (범용네트워크암호/인증)
+  - [라온시큐어](https://www.raonsecure.com/) **Key# Biz** v2.0
+- 트랜잭션보안 및 바이러스보호 SW
+  - [라온시큐어](https://www.raonsecure.com/) **TouchEn Transkey** v4.6 - (PC) 가상키패드/Server
+  - [라온시큐어](https://www.raonsecure.com/) **TouchEn mTranskey** v4.6 - 모바일 키보드보안(Web용)
+- 출력물(보고서) - [포시에스](http://www.forcs.com/) **OZ Report**
+- SSL 인증서 - [GeoTrust](https://www.geotrust.com/), [Thawte](https://www.thawte.com/), [GlobalSign](https://www.globalsign.com/)
+- 통합 서버보안 솔루션 - [sga](http://www.sgasol.kr/kr/01_product/product01.php) **RadCastle**
+- 쉘 모니터(ShellMonitor) - [umv기술](http://www.umv.co.kr/kor/product/product0101.php) **WSS**(Web Server Safeguard)
+- Linux 백업 - [Acronis](https://www.acronis.com/ko-kr/business/backup/linux-server/) **Backup**
 
 ## 성능
 
