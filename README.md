@@ -41,7 +41,7 @@
     - [redux](https://redux.js.org/introduction/getting-started)
     - [redux saga](https://mskims.github.io/redux-saga-in-korean/) (한글)
 - CSS3
-  - [Ant Design](https://ant.design/docs/react/introduce))
+  - [Ant Design](https://ant.design/docs/react/introduce)
   - [styled-components](https://www.styled-components.com/docs)
   - [Sass](https://sass-lang.com/documentation)
 - Util
