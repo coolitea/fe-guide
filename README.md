@@ -67,8 +67,8 @@
 
 ## 종속성 관리
 
-- [npm](https://www.npmjs.com/)
-- [yarn](https://yarnpkg.com/lang/en/)
+- [ ] [npm](https://www.npmjs.com/)
+- [x] [yarn](https://yarnpkg.com/lang/en/)
 - [Nexus Repository Manager 3](https://help.sonatype.com/repomanager3)
 
 ## 빌드
