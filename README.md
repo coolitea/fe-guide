@@ -96,7 +96,13 @@
   - [라온시큐어](https://www.raonsecure.com/) **TouchEn Transkey** v4.6 - (PC) 가상키패드/Server
   - [라온시큐어](https://www.raonsecure.com/) **TouchEn mTranskey** v4.6 - 모바일 키보드보안(Web용)
 - 출력물(보고서) - [포시에스](http://www.forcs.com/) **OZ Report**
-- SSL 인증서 - [Let’s Encrypt](https://letsencrypt.org/), [GeoTrust](https://www.geotrust.com/), [Thawte](https://www.thawte.com/), [GlobalSign](https://www.globalsign.com/)
+- Extended Validation (EV) SSL 인증서
+  - [ ] [Sectigo](https://sectigo.com/)
+  - [x] [DigiCert](https://www.digicert.com/) - crowdnet, lei-k
+  - [ ] [GlobalSign](https://www.globalsign.com/) - e-safe, dacc
+  - [ ] [Thawte](https://www.thawte.com/) - safeplus
+  - [ ] [GeoTrust](https://www.geotrust.com/) - ksd, evote, nanum
+  - [ ] [Let’s Encrypt](https://letsencrypt.org/) (무료)
 - 통합 서버보안 솔루션 - [sga](http://www.sgasol.kr/kr/01_product/product01.php) **RadCastle**
 - 쉘 모니터(ShellMonitor) - [umv기술](http://www.umv.co.kr/kor/product/product0101.php) **WSS**(Web Server Safeguard)
 - Linux 백업 - [Acronis](https://www.acronis.com/ko-kr/business/backup/linux-server/) **Backup**
