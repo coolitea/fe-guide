@@ -128,7 +128,7 @@
 - [제로초](https://www.zerocho.com/) - SSR React
   - (도서) [Node.js 교과서](https://thebook.io/006982/)
 - [landvibe](https://medium.com/@ljs0705/카카오페이지-웹-react-포팅-후기-76402cc5e031) - 카카오페이지 웹 React 포팅 후기
-  - (도서) [실전 리액트 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788966262465#N)  
+  - (도서) [실전 리액트 프로그래밍 - 리액트 훅부터 Next.js까지](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788966262465#N)  
 - [벨로퍼트](https://velog.io/@velopert) - React
   - (도서) [리액트를 다루는 기술](https://thebook.io/006946/)
 - [캡틴판교](https://joshua1988.github.io/) - 웹 기초
